@@ -1,0 +1,7 @@
+# 請確保安裝好 PyTorch (https://pytorch.org/get-started/locally/)
+matplotlib
+numpy
+Pillow
+opencv-python
+ultralytics
+grad-cam
